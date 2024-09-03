@@ -1,0 +1,12 @@
+print("Hello World")
+print()
+# Knock-Knock Joke program
+print("knock, knock")
+print("Who's there?")
+print("Yah")
+print("Yah who?")
+print("settle down, cowboy!")
+print()
+print("Knock, knock " "\nWho's theere?")
+print("Nobel" "\nNobel who?")
+print("No bell. " "\nThat's why I knocked.")
